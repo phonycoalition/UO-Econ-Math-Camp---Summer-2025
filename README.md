@@ -1,5 +1,5 @@
-#University of Oregon, Department of Economics
-#Math Camp, Summer 2025
+# University of Oregon, Department of Economics
+# Math Camp, Summer 2025
 
 Welcome to the GitHub page for Math Camp.
 
@@ -7,8 +7,7 @@ Welcome to the GitHub page for Math Camp.
 
 Monday-Friday 9:00am to 11:00am PST, September 8-19
 
-## 
-[Syllabus](https://github.com/phonycoalition/UO-Econ-Math-Camp---Summer-2025/blob/main/MathCamp_Syllabus.pdf)
+## [Syllabus](https://github.com/phonycoalition/UO-Econ-Math-Camp---Summer-2025/blob/main/MathCamp_Syllabus.pdf)
 
 ## [Zoom Link](https://uoregon.zoom.us/j/91841648894)
 
