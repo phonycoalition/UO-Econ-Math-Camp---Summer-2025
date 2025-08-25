@@ -1,3 +1,4 @@
+#University of Oregon, Department of Economics
 #Math Camp, Summer 2025
 
 Welcome to the GitHub page for Math Camp.
